@@ -18,10 +18,11 @@ namespace task2P2
                     count++;
                    
                 }
-                else
+                else 
                 {
-                     Console.WriteLine("Bu mətndə (a,A) simvolları yoxdur ");    
+                       
                 }
+                
             }
             Console.WriteLine("Bu mətndə (a,A) simvolunun sayı:" + count);
 
