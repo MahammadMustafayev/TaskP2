@@ -14,14 +14,15 @@ namespace task1P2
                 {
                     small = nums[i];
                 }
+                
 
                 // Arrayı özümüz verdiyimiz hal üçün
-                //else if (small<nums[i])
+                //else 
                 //{
                 //    Console.WriteLine("Bu en boyuk elementidir" );
                 //} 
             }
-            Console.WriteLine("Bu en kicik elementdir" + small);
+            Console.WriteLine("Bu en kicik elementdir:" + small);
         } 
     }
 }

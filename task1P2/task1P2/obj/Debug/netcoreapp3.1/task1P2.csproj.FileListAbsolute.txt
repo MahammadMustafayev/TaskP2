@@ -11,3 +11,16 @@ C:\Users\admin\OneDrive\İş masası\Task C# P2\task1P2\task1P2\obj\Debug\netcor
 C:\Users\admin\OneDrive\İş masası\Task C# P2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.dll
 C:\Users\admin\OneDrive\İş masası\Task C# P2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.pdb
 C:\Users\admin\OneDrive\İş masası\Task C# P2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.genruntimeconfig.cache
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.exe
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.deps.json
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.dll
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\bin\Debug\netcoreapp3.1\task1P2.pdb
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.dll
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.pdb
+C:\Users\tu7ekdm78\Desktop\TaskP2\task1P2\task1P2\obj\Debug\netcoreapp3.1\task1P2.genruntimeconfig.cache
