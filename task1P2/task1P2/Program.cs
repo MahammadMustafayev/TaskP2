@@ -14,6 +14,8 @@ namespace task1P2
                 {
                     small = nums[i];
                 }
+
+                // Arrayı özümüz verdiyimiz hal üçün
                 //else if (small<nums[i])
                 //{
                 //    Console.WriteLine("Bu en boyuk elementidir" );

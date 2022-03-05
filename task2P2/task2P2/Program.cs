@@ -8,21 +8,26 @@ namespace task2P2
         {
             string names = Console.ReadLine();
             int count = 0;
-            char character = 'a'  ;
+            char character = 'a';
+            char character1 = 'A';
 
-                foreach (char ch in names)
+            foreach (char ch in names)
+            {
+                if (ch == character || ch == character1)
                 {
-                    if (ch == character)
-                    {
-                        count++;
-                    }
-                    
+                    count++;
+                   
                 }
-                Console.WriteLine("Bu mətndə (a) simvolunun sayı:" + count);
-            
-           
-            
+                else
+                {
+                     Console.WriteLine("Bu mətndə (a,A) simvolları yoxdur ");    
+                }
+            }
+            Console.WriteLine("Bu mətndə (a,A) simvolunun sayı:" + count);
+
+
+
         }
-       
+
     }
 }
